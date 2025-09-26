@@ -1,4 +1,4 @@
-  <?php include '../includes/header.php'; ?>
+<?php include '../includes/header.php'; ?>
   
     <body class="sb-nav-fixed">
        
@@ -172,7 +172,7 @@
             </div>
         </div>
        
-<?php include '../includes/scripts.php'; ?>
+<?php include '../includes/script.php'; ?>
 
     </body>
 </html>
