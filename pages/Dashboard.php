@@ -1,14 +1,13 @@
 <?php include '../includes/header.php'; ?>
-  
+
     <body class="sb-nav-fixed">
-       
-<?php include '../includes/navbar.php'; ?>
+
+       <?php include '../includes/navbar.php'; ?>
 
         <div id="layoutSidenav">
             <div id="layoutSidenav_nav">
                 
-            <?php include '../includes/sidebar.php'; ?>
-
+             <?php include '../includes/sidebar.php'; ?>
                             </div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
                                 <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
@@ -159,20 +158,15 @@
                                             <td>2011/04/25</td>
                                             <td>$320,800</td>
                                         </tr>
-                                      
                                     </tbody>
                                 </table>
                             </div>
                         </div>
                     </div>
                 </main>
-                
- <?php include '../includes/footer.php'; ?>
-
+               <?php include '../includes/footer.php'; ?>
             </div>
         </div>
-       
-<?php include '../includes/script.php'; ?>
-
+       <?php include '../includes/script.php'; ?>
     </body>
 </html>
